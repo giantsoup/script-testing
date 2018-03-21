@@ -1,0 +1,9 @@
+{
+  "name": "wordpress-theme",
+  "version": "1.0.0",
+  "devDependencies": {
+    "sass-mq": "~3.2.3",
+    "bourbon": "4.3.4",
+    "font-awesome": "4.7.0"
+  }
+}
